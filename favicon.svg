@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0b0a08"/>
+  <path d="M12 12h40v40H12z" fill="none" stroke="#c9a227" stroke-width="2"/>
+  <text x="32" y="40" text-anchor="middle" fill="#e8cd7c" font-family="Georgia,serif" font-size="23" font-weight="700">ML</text>
+</svg>
